@@ -7,3 +7,12 @@ gcc -Wall -o Calulator Calulator.c
 then 
 ./Calulator
 then calculate
+
+#instruction 
+'+' for addition 
+'-' for subtraction
+'*' for multiplication
+'/' for division
+'%' for modulus (remainder)
+'^' for power
+'#' for sqrt
